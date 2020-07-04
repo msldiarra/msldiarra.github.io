@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nos Projets on NIVEL SARL</title>
-    <link>localhost/fr/nos-projets/</link>
+    <link>msldiarra.github.io/fr/nos-projets/</link>
     <description>Recent content in Nos Projets on NIVEL SARL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIVEL SARL&lt;/a&gt;</copyright>
     
-	<atom:link href="localhost/fr/nos-projets/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="msldiarra.github.io/fr/nos-projets/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
