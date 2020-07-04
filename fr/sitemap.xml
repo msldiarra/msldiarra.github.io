@@ -3,164 +3,164 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/projects/nobo/</loc>
+    <loc>/projects/nobo/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/nobo/"
+                href="/en/projects/nobo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/projects/nobo/"
+                href="/projects/nobo/"
                 />
   </url>
   
   <url>
-    <loc>/fr/projects/elections/</loc>
+    <loc>/projects/elections/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/elections/"
+                href="/en/projects/elections/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/projects/elections/"
+                href="/projects/elections/"
                 />
   </url>
   
   <url>
-    <loc>/fr/projects/ctdec-corrections/</loc>
+    <loc>/projects/ctdec-corrections/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/ctdec-corrections/"
+                href="/en/projects/ctdec-corrections/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/projects/ctdec-corrections/"
+                href="/projects/ctdec-corrections/"
                 />
   </url>
   
   <url>
-    <loc>/fr/projects/audiences-foraines/</loc>
+    <loc>/projects/audiences-foraines/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/projects/audiences-foraines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/projects/audiences-foraines/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/projects/audiences-foraines/"
-                />
   </url>
   
   <url>
-    <loc>/fr/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
   </url>
   
   <url>
-    <loc>/fr/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/projects/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/projects/"
-                />
   </url>
   
   <url>
-    <loc>/fr/contact-us/</loc>
+    <loc>/contact-us/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/contact-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/contact-us/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/contact-us/"
-                />
   </url>
   
   <url>
-    <loc>/fr/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/about/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/about/"
-                />
   </url>
   
   <url>
-    <loc>/fr/nos-projets/</loc>
+    <loc>/nos-projets/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/nos-projets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/nos-projets/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/nos-projets/"
-                />
   </url>
   
   <url>
-    <loc>/fr/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
                 href="/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/series/"
-                />
   </url>
   
   <url>
-    <loc>/fr/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/tags/"
                 />
   </url>
   

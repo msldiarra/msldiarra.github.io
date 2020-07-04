@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on NIVEL SARL</title>
+    <link>/en/projects/</link>
+    <description>Recent content in Projects on NIVEL SARL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIVEL SARL&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving cooking oil production tracking.</title>
+      <link>/en/projects/nobo/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/nobo/</guid>
+      <description>Nobo The SATMA Oil Manufacturing Plant (in the east of Bamako) is a pioneer in cotton processing in Mali.
+Its laboratory exist since the creation of the plant back in 2000. As part of the continuous improvement of their oil production and labelling of their oil, we supported SATMA in the computerisation of their traceability system.
+The Nobo application (Nobo means transparency in Bambara) involves all the teams in the factory and allows SATMA to be 100% transparent on the provenance and composition of each bottle of oil.</description>
+    </item>
+    
+    <item>
+      <title>Election Results Compilation.</title>
+      <link>/en/projects/elections/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/elections/</guid>
+      <description>Application CTDEC Services In Mali, election results compilation is the responsibility of the Ministry of Territorial Administration.
+Compilation process relies on the collection of the results of 49 districts and all chancelleries.
+Supporting the Ministry, we developed a secured real time application allowing compilation of global results.
+Official are now able to see percentage of received results, visualize it on a card of Mali.</description>
+    </item>
+    
+    <item>
+      <title>Fixing Errors On ID Card Is Now Easier.</title>
+      <link>/en/projects/ctdec-corrections/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/ctdec-corrections/</guid>
+      <description>Application CTDEC Services CTDEC agency allows any malian citizen to claim erroneous informations on their ID card to be fixed, such as a bad address or a misspelling of their name.
+Claims are made are filed at the local city hall which then is responsible for to sent it to the CTDEC headquarters in Korofina (East of Bamako).
+Nivel is supporting the CTDEC in the digitalization of this process. We already delivered an office software and a web portal to ease and accelerate the processing of claims.</description>
+    </item>
+    
+    <item>
+      <title>Give malian kids birth certificates.</title>
+      <link>/en/projects/audiences-foraines/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/audiences-foraines/</guid>
+      <description>Audiences foraines In the process of delivering birth certificates to children under 18, we supported the PAECSIS project.
+This project included many actors : associations, registrars, judges and the CTDEC responsible for registering identities of the children.
+We developed a web application (https://www.audiences-foraines.ml) to ease the process of collecting requests and delivering birth certificates.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,48 +13,47 @@
     
     
     <item>
-      <title>Improving cooking oil production tracking.</title>
+      <title>Améliorer la traçabilité de l&#39;huile ménagère.</title>
       <link>/projects/nobo/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/nobo/</guid>
-      <description>Nobo The SATMA Oil Manufacturing Plant (in the east of Bamako) is a pioneer in cotton processing in Mali.
-Its laboratory exist since the creation of the plant back in 2000. As part of the continuous improvement of their oil production and labelling of their oil, we supported SATMA in the computerisation of their traceability system.
-The Nobo application (Nobo means transparency in Bambara) involves all the teams in the factory and allows SATMA to be 100% transparent on the provenance and composition of each bottle of oil.</description>
+      <description>Nobo L&amp;rsquo;Usine SATMA a Missabougou est une pionnière de l&amp;rsquo;industrie de transformation du coton au Mali.
+Le laboratoire de la raffinerie d&amp;rsquo;huile existe depuis la création de l&amp;rsquo;usine en 2000. Dans le cadre de l&amp;rsquo;amélioration de sa production et de l&amp;rsquo;étiquetage de son huile, nous avons accompagné SATMA dans la mise en place d&amp;rsquo;un système informatisé de traçabilité.
+Le logiciel Nobo implique toutes les équipes et permet de tracer de la provenance des graines de cotons jusqu&amp;rsquo;aux bouteilles d&amp;rsquo;huile en passant par les prélèvements et mesures faites dans le laboratoire.</description>
     </item>
     
     <item>
-      <title>Election Results Compilation.</title>
+      <title>Compilation des résultats des élections.</title>
       <link>/projects/elections/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/elections/</guid>
-      <description>Application CTDEC Services In Mali, election results compilation is the responsibility of the Ministry of Territorial Administration.
-Compilation process relies on the collection of the results of 49 districts and all chancelleries.
-Supporting the Ministry, we developed a secured real time application allowing compilation of global results.
-Official are now able to see percentage of received results, visualize it on a card of Mali.</description>
+      <description>Application CTDEC Services Les résultats des élections présidentielles sont compilés au niveau du ministère de l&amp;rsquo;administration territoriale du Mali.
+C&amp;rsquo;est un process qui repose sur la remontée des résultats des bureaux de votes au niveaux des 49 cercles du Mali et des circonscriptions consulaires.
+Dans le cadre de l&amp;rsquo;amélioration de la remontée des résultats, nous avons en partenariat avec le ministère, développé une application qui permet de calculer les résultats globaux des élections en temps réel.</description>
     </item>
     
     <item>
-      <title>Fixing Errors On ID Card Is Now Easier.</title>
+      <title>Faciliter la correction des erreurs sur les pièces d&#39;identités.</title>
       <link>/projects/ctdec-corrections/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/projects/ctdec-corrections/</guid>
-      <description>Application CTDEC Services CTDEC agency allows any malian citizen to claim erroneous informations on their ID card to be fixed, such as a bad address or a misspelling of their name.
-Claims are made are filed at the local city hall which then is responsible for to sent it to the CTDEC headquarters in Korofina (East of Bamako).
-Nivel is supporting the CTDEC in the digitalization of this process. We already delivered an office software and a web portal to ease and accelerate the processing of claims.</description>
+      <description>Application CTDEC Services Le Centre de Traitement des Données de l&amp;rsquo;État Civil du Mali (CTDEC) donne la possibilité aux citoyens de corriger les erreurs éventuelles sur leur titre d&amp;rsquo;identité.
+Ces demandes sont faites au niveau des mairies et sont ensuite acheminés par courrier au niveau du CTDEC.
+Nous accompagnons le CDTEC dans digitalisation de ce processus à travers un logiciel bureau et une application web qui permettra a terme de faciliter la vie des citoyens.</description>
     </item>
     
     <item>
-      <title>Give malian kids birth certificates.</title>
+      <title>Donner des actes de naissances aux enfants.</title>
       <link>/projects/audiences-foraines/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/projects/audiences-foraines/</guid>
-      <description>Audiences foraines In the process of delivering birth certificates to children under 18, we supported the PAECSIS project.
-This project included many actors : associations, registrars, judges and the CTDEC responsible for registering identities of the children.
-We developed a web application (https://www.audiences-foraines.ml) to ease the process of collecting requests and delivering birth certificates.</description>
+      <description>Audiences foraines Dans le cadre de la mise en place des audiences foraines, nous accompagnons le PAECSIS (Programme d&amp;rsquo;Appui au fonctionnement de l&amp;rsquo;Etat Civil et à la mise en place d&amp;rsquo;un Système d&amp;rsquo;Information Sécurisé).
+Nous développons une application (https://www.audiences-foraines.ml) permettant d&amp;rsquo;accompagner le processus, de la récolte des informations à la délivrance des actes de naissances consécutif à la demande d’un jugement supplétif.
+Dans un esprit AGILE avec le partenaire CIVIPOL gérant le projet audiences foraines pour le compte du PAECSIS.</description>
     </item>
     
   </channel>
