@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NIVEL SARL</title>
-    <link>msldiarra.github.io/</link>
+    <link>/</link>
     <description>Recent content on NIVEL SARL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIVEL SARL&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="msldiarra.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Improving cooking oil production tracking.</title>
-      <link>msldiarra.github.io/projects/nobo/</link>
+      <link>/projects/nobo/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>msldiarra.github.io/projects/nobo/</guid>
+      <guid>/projects/nobo/</guid>
       <description>Nobo The SATMA Oil Manufacturing Plant (in the east of Bamako) is a pioneer in cotton processing in Mali.
 Its laboratory exist since the creation of the plant back in 2000. As part of the continuous improvement of their oil production and labelling of their oil, we supported SATMA in the computerisation of their traceability system.
 The Nobo application (Nobo means transparency in Bambara) involves all the teams in the factory and allows SATMA to be 100% transparent on the provenance and composition of each bottle of oil.</description>
@@ -25,10 +25,10 @@ The Nobo application (Nobo means transparency in Bambara) involves all the teams
     
     <item>
       <title>Election Results Compilation.</title>
-      <link>msldiarra.github.io/projects/elections/</link>
+      <link>/projects/elections/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>msldiarra.github.io/projects/elections/</guid>
+      <guid>/projects/elections/</guid>
       <description>Application CTDEC Services In Mali, election results compilation is the responsibility of the Ministry of Territorial Administration.
 Compilation process relies on the collection of the results of 49 districts and all chancelleries.
 Supporting the Ministry, we developed a secured real time application allowing compilation of global results.
@@ -37,10 +37,10 @@ Official are now able to see percentage of received results, visualize it on a c
     
     <item>
       <title>Fixing Errors On ID Card Is Now Easier.</title>
-      <link>msldiarra.github.io/projects/ctdec-corrections/</link>
+      <link>/projects/ctdec-corrections/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>msldiarra.github.io/projects/ctdec-corrections/</guid>
+      <guid>/projects/ctdec-corrections/</guid>
       <description>Application CTDEC Services CTDEC agency allows any malian citizen to claim erroneous informations on their ID card to be fixed, such as a bad address or a misspelling of their name.
 Claims are made are filed at the local city hall which then is responsible for to sent it to the CTDEC headquarters in Korofina (East of Bamako).
 Nivel is supporting the CTDEC in the digitalization of this process. We already delivered an office software and a web portal to ease and accelerate the processing of claims.</description>
@@ -48,10 +48,10 @@ Nivel is supporting the CTDEC in the digitalization of this process. We already 
     
     <item>
       <title>Give malian kids birth certificates.</title>
-      <link>msldiarra.github.io/projects/audiences-foraines/</link>
+      <link>/projects/audiences-foraines/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>msldiarra.github.io/projects/audiences-foraines/</guid>
+      <guid>/projects/audiences-foraines/</guid>
       <description>Audiences foraines In the process of delivering birth certificates to children under 18, we supported the PAECSIS project.
 This project included many actors : associations, registrars, judges and the CTDEC responsible for registering identities of the children.
 We developed a web application (https://www.audiences-foraines.ml) to ease the process of collecting requests and delivering birth certificates.</description>
@@ -59,10 +59,10 @@ We developed a web application (https://www.audiences-foraines.ml) to ease the p
     
     <item>
       <title>About Us</title>
-      <link>msldiarra.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>msldiarra.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>About Us We are a Malian software company. We develop and integrate solutions to help and improve company processes.
 Agility We are long time practitioners of agility. We listen carefully to our partners and we welcome change.
 A local player We aim to take part actively in Mali and subregional development. Our mission is to to demonstrate quality is possible here locally. We want to stimulate local ecosystem through local and international partnership.</description>
@@ -70,10 +70,10 @@ A local player We aim to take part actively in Mali and subregional development.
     
     <item>
       <title>Talk To Us</title>
-      <link>msldiarra.github.io/contact-us/</link>
+      <link>/contact-us/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>msldiarra.github.io/contact-us/</guid>
+      <guid>/contact-us/</guid>
       <description>By Mail You can send any enquiry at : infos@nivel-sarl.ml.
 On The Phone Tel : +223 73 03 46 03
 Where To Find Us NIVEL SARL
