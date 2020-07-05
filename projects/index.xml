@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on NIVEL SARL</title>
-    <link>/projects/</link>
+    <link>https://www.nivel-sarl.ml/projects/</link>
     <description>Recent content in Projects on NIVEL SARL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIVEL SARL&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nivel-sarl.ml/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Améliorer la traçabilité de l&#39;huile ménagère.</title>
-      <link>/projects/nobo/</link>
+      <link>https://www.nivel-sarl.ml/projects/nobo/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/nobo/</guid>
+      <guid>https://www.nivel-sarl.ml/projects/nobo/</guid>
       <description>Nobo L&amp;rsquo;Usine SATMA a Missabougou est une pionnière de l&amp;rsquo;industrie de transformation du coton au Mali.
 Le laboratoire de la raffinerie d&amp;rsquo;huile existe depuis la création de l&amp;rsquo;usine en 2000. Dans le cadre de l&amp;rsquo;amélioration de sa production et de l&amp;rsquo;étiquetage de son huile, nous avons accompagné SATMA dans la mise en place d&amp;rsquo;un système informatisé de traçabilité.
 Le logiciel Nobo implique toutes les équipes et permet de tracer de la provenance des graines de cotons jusqu&amp;rsquo;aux bouteilles d&amp;rsquo;huile en passant par les prélèvements et mesures faites dans le laboratoire.</description>
@@ -25,10 +25,10 @@ Le logiciel Nobo implique toutes les équipes et permet de tracer de la provenan
     
     <item>
       <title>Compilation des résultats des élections.</title>
-      <link>/projects/elections/</link>
+      <link>https://www.nivel-sarl.ml/projects/elections/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/elections/</guid>
+      <guid>https://www.nivel-sarl.ml/projects/elections/</guid>
       <description>Application CTDEC Services Les résultats des élections présidentielles sont compilés au niveau du ministère de l&amp;rsquo;administration territoriale du Mali.
 C&amp;rsquo;est un process qui repose sur la remontée des résultats des bureaux de votes au niveaux des 49 cercles du Mali et des circonscriptions consulaires.
 Dans le cadre de l&amp;rsquo;amélioration de la remontée des résultats, nous avons en partenariat avec le ministère, développé une application qui permet de calculer les résultats globaux des élections en temps réel.</description>
@@ -36,10 +36,10 @@ Dans le cadre de l&amp;rsquo;amélioration de la remontée des résultats, nous 
     
     <item>
       <title>Faciliter la correction des erreurs sur les pièces d&#39;identités.</title>
-      <link>/projects/ctdec-corrections/</link>
+      <link>https://www.nivel-sarl.ml/projects/ctdec-corrections/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/projects/ctdec-corrections/</guid>
+      <guid>https://www.nivel-sarl.ml/projects/ctdec-corrections/</guid>
       <description>Application CTDEC Services Le Centre de Traitement des Données de l&amp;rsquo;État Civil du Mali (CTDEC) donne la possibilité aux citoyens de corriger les erreurs éventuelles sur leur titre d&amp;rsquo;identité.
 Ces demandes sont faites au niveau des mairies et sont ensuite acheminés par courrier au niveau du CTDEC.
 Nous accompagnons le CDTEC dans digitalisation de ce processus à travers un logiciel bureau et une application web qui permettra a terme de faciliter la vie des citoyens.</description>
@@ -47,10 +47,10 @@ Nous accompagnons le CDTEC dans digitalisation de ce processus à travers un log
     
     <item>
       <title>Donner des actes de naissances aux enfants.</title>
-      <link>/projects/audiences-foraines/</link>
+      <link>https://www.nivel-sarl.ml/projects/audiences-foraines/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/audiences-foraines/</guid>
+      <guid>https://www.nivel-sarl.ml/projects/audiences-foraines/</guid>
       <description>Audiences foraines Dans le cadre de la mise en place des audiences foraines, nous accompagnons le PAECSIS (Programme d&amp;rsquo;Appui au fonctionnement de l&amp;rsquo;Etat Civil et à la mise en place d&amp;rsquo;un Système d&amp;rsquo;Information Sécurisé).
 Nous développons une application (https://www.audiences-foraines.ml) permettant d&amp;rsquo;accompagner le processus, de la récolte des informations à la délivrance des actes de naissances consécutif à la demande d’un jugement supplétif.
 Dans un esprit AGILE avec le partenaire CIVIPOL gérant le projet audiences foraines pour le compte du PAECSIS.</description>
