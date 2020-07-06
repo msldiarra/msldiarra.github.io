@@ -57,6 +57,17 @@ Dans un esprit AGILE avec le partenaire CIVIPOL gérant le projet audiences fora
     </item>
     
     <item>
+      <title>A propos de Nivel</title>
+      <link>https://www.nivel-sarl.ml/about/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nivel-sarl.ml/about/</guid>
+      <description>Qui sommes-nous? Nous sommes une entreprise malienne et nous développons et intégrons des solutions logicielles. Nous avons une plus d&amp;rsquo;une dizaine d&amp;rsquo;annees d&amp;rsquo;experiences en Europe et en Afrique.
+A l&amp;rsquo;écoute Nous pensons que pour innover, il faut avoir de l&amp;rsquo;empathie. Nous sommes de fervents pratiquants des technologies agiles et mettons notre expertise au service de nos partenaires.
+Un acteur local Nous sommes un acteur local qui prend part au développement du Mali que ce soit dans la réalisation de projets locaux ou internationaux.</description>
+    </item>
+    
+    <item>
       <title>Nous contacter</title>
       <link>https://www.nivel-sarl.ml/contact-us/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
@@ -68,17 +79,6 @@ Par telephone Tel : +223 73 03 46 03
 Où nous trouver NIVEL SARL
 Rue 315, porte 78 Quartier du Fleuve
 Bamako, Mali</description>
-    </item>
-    
-    <item>
-      <title>Qui sommes-nous?</title>
-      <link>https://www.nivel-sarl.ml/about/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nivel-sarl.ml/about/</guid>
-      <description>Qui sommes-nous? Nous sommes une entreprise malienne et nous développons et intégrons des solutions logicielles.
-A l&amp;rsquo;écoute Nous pensons que pour innover, il faut avoir de l&amp;rsquo;empathie. Nous sommes de fervents pratiquants des technologies agiles et mettons notre expertise au service de nos partenaires.
-Un acteur local Nous sommes un acteur local qui prend part au développement du Mali que ce soit dans la réalisation de projets locaux ou internationaux.</description>
     </item>
     
   </channel>
