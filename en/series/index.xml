@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on NIVEL SARL</title>
-    <link>https://www.nivel-sarl.ml/en/series/</link>
+    <link>https://www.nivel.africa/en/series/</link>
     <description>Recent content in Series on NIVEL SARL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIVEL SARL&lt;/a&gt;</copyright>
     
-	<atom:link href="https://www.nivel-sarl.ml/en/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nivel.africa/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
