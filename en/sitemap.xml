@@ -123,6 +123,64 @@
   </url>
   
   <url>
+    <loc>https://www.nivel.africa/en/nivel-hosting/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.nivel.africa/nivel-hosting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.nivel.africa/en/nivel-hosting/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/buy-domain-with-email/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/domain-email-registration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/domain-for-email/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/domain-for-email-address/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/domain-name/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/domain-with-email/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/domain-with-email-hosting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/domain-with-unlimited-email-accounts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/mail-hosting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/mail-server/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/mail-server-setup/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.nivel.africa/en/nos-projets/</loc>
     <xhtml:link
                 rel="alternate"
@@ -162,6 +220,18 @@
                 hreflang="en"
                 href="https://www.nivel.africa/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/website-content/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/website-create/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/en/tags/website-creation/</loc>
   </url>
   
 </urlset>

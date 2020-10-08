@@ -123,6 +123,60 @@
   </url>
   
   <url>
+    <loc>https://www.nivel.africa/nivel-hosting/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.nivel.africa/en/nivel-hosting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.nivel.africa/nivel-hosting/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/comment-configurer-un-serveur-mail/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/comment-cr%C3%A9er-un-serveur-mail/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/domain-address/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/domain-adress/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/domain-email/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/enregistrement-de-noms-de-domaine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/hebergement-email/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/hebergement-mail/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/messagerie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/noms-de-domaine/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.nivel.africa/nos-projets/</loc>
     <xhtml:link
                 rel="alternate"
@@ -137,6 +191,18 @@
   </url>
   
   <url>
+    <loc>https://www.nivel.africa/tags/offre-hebergement-web-mail/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/quel-serveur-mail-choisir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/quel-serveur-pour-le-mail/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.nivel.africa/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -148,6 +214,10 @@
                 hreflang="fr"
                 href="https://www.nivel.africa/series/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.nivel.africa/tags/serveur-de-messagerie/</loc>
   </url>
   
   <url>
